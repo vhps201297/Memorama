@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_nutton_login">Login</string>
+    <string name="dont_have_account">¿No tienes una cuenta?</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_nickname">Usuario</string>
+    <string name="hint_repeat_password">Confirmar Contraseña</string>
+    <string name="text_register">Únete</string>
+    <string name="toolbar_create_Account">Create Account</string>
+    <string name="hace">Hace</string>
+</resources>

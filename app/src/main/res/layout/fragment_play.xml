@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+    tools:context="com.example.mario.energru.view.fragments.PlayFragment">
+
+    <TableRow
+        android:layout_weight="1">
+        <ImageButton
+            android:id="@+id/imbCarta1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+        <ImageButton
+            android:id="@+id/imbCarta2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_weight="1">
+        <ImageButton
+            android:id="@+id/imbCarta3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+        <ImageButton
+            android:id="@+id/imbCarta4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_weight="1">
+        <ImageButton
+
+            android:id="@+id/imbCarta5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+        <ImageButton
+            android:id="@+id/imbCarta6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_weight="1">
+        <ImageButton
+            android:id="@+id/imbCarta7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+        <ImageButton
+            android:id="@+id/imbCarta8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cards"/>
+    </TableRow>
+
+</TableLayout>

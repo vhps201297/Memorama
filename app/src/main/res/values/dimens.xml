@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="editText_login">20sp</dimen>
+    <dimen name="padding_h_login">32dp</dimen>
+    <dimen name="text_dont_have_account">16sp</dimen>
+    <dimen name="faba_margin">10dp</dimen>
+    <dimen name="margin_create">25dp</dimen>
+    <dimen name="create_acount">40dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="borderRadius">4dp</dimen>
+    <dimen name="actividad_vertical">16dp</dimen>
+    <dimen name="text_size_card">14sp</dimen>
+    <dimen name="timeCardMarginleft">5dp</dimen>
+    <dimen name="bottombar_height">75dp</dimen>
+</resources>

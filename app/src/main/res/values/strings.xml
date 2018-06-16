@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Memo Game</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_nutton_login">Iniciar Sesión</string>
+    <string name="dont_have_account">¿No tienes una cuenta?, </string>
+    <string name="create_account">Crea una aquí.</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_nickname">Usuario</string>
+    <string name="hint_repeat_password">Confirmar Contraseña</string>
+    <string name="text_register">Únete</string>
+    <string name="toolbar_create_Account">Crea una Cuenta</string>
+    <string name="toolbar_inicio">Inicio</string>
+    <string name="toolbar_editar">Editar Perfil</string>
+    <string name="toolbar_estadisticas">Estadisticas</string>
+
+    <string name="hace">Hace</string>
+    <string name="timecardtime">4 dias</string>
+    <string name="cardLikes">10 Me Gusta</string>
+    <string name="tab_search">Estadisticas</string>
+    <string name="tab_home">Jugar</string>
+    <string name="tab_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_data_base">user</string>
+</resources>
